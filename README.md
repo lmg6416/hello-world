@@ -1,5 +1,6 @@
-# hello-world
-Just another repository
-hi
-hi
-hello world
+#include <stdio.h>
+
+int main(){
+printf("my name is cetecom daniel. hellow world!\n");
+return 0;
+}
